@@ -84,4 +84,5 @@ const palindromicString = (sentence) => {
     return result;
 }
 
-console.log(palindromicString("Madam Ayo who stays in oyo was in a bus to lagos when her son sold the racecar"));
+// console.log(palindromicString("Madam Ayo who stays in oyo was in a bus to lagos when her son sold the racecar"));
+//this is the end...
